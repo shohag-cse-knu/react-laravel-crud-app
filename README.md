@@ -1,9 +1,9 @@
-# Laravel REST API and React CRUD operation
+# React + Laravel — CRUD Operation
+Basic CRUD for Product Inventory with Product Name/Title, Product Description and Product Image.
 
-Basic CRUD operation with Laravel REST API and React JS.
 ## Project Details
 
-- **GitHub Repository**: [https://github.com/shohag-cse-knu/crud-react-laravel.git](https://github.com/shohag-cse-knu/crud-react-laravel.git)
+- **GitHub Repository**: [https://github.com/shohag-cse-knu/react-laravel-crud-app.git](https://github.com/shohag-cse-knu/react-laravel-crud-app.git)
 
 ## Features
 
@@ -14,17 +14,18 @@ Basic CRUD operation with Laravel REST API and React JS.
 
 ## Prerequisites
 
-- **Laravel**: 
-- **PHP**:
-- **MySQL**
-- **Composer**: 
-- **NodeJS**:
+- **Laravel**: Laravel Framework 8.83.27
+- **PHP**: PHP 8.2.12
+- **MySQL**: MariaDB 10.4.32
+- **Composer**: Composer version 2.9.2
+- **NodeJS**: 19.2.2
+- **React**: 18.2.0
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shohag-cse-knu/crud-react-laravel.git
+git clone https://github.com/shohag-cse-knu/react-laravel-crud-app.git
 ````
 ### 2. Navigate to crud-laravel
 ```bash
@@ -73,7 +74,7 @@ npm start
 ## Technologies Used
 
 - **Frontend**: ReactJS
-- **Backend**: Laravel REST API, MySql
+- **Backend**: Laravel REST API (Sanctum), MySql
 
 ## Contributing
 
