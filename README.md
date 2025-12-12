@@ -3,7 +3,7 @@
 Basic CRUD operation with Laravel REST API and React JS.
 ## Project Details
 
-- **GitHub Repository**: [https://github.com/shohag-cse-knu/laravel-api-react-crud.git](https://github.com/shohag-cse-knu/laravel-api-react-crud.git)
+- **GitHub Repository**: [https://github.com/shohag-cse-knu/crud-react-laravel.git](https://github.com/shohag-cse-knu/crud-react-laravel.git)
 
 ## Features
 
@@ -24,7 +24,7 @@ Basic CRUD operation with Laravel REST API and React JS.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shohag-cse-knu/crud-react-laravel-api.git
+git clone https://github.com/shohag-cse-knu/crud-react-laravel.git
 ````
 ### 2. Navigate to crud-laravel
 ```bash
